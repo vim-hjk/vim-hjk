@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Numpy-1E8449?style=flat&logo=Numpy&logoColor=white">
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00C?style=flat&logo=TensorFlow&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white">
 </p>
 <br></br>
 
