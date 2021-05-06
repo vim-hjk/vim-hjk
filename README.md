@@ -35,9 +35,9 @@
 | 1     | Industry-Academic cooperation task    | Deep Learning based real-time pedestrian clothing detection and analysis pipeline development.|
 | 2     | AI Competition                        | K-Fashion AI Competition (Dacon, 2020), Fashion Instance segmentation model design, 4th out of 384 teams.|
 | 3     | National research project             | Project to create AI data for marine deposition waste detection, Sonar images and low-resolution marine waste images;|
-| 4     | BSE Graduation Project.             | Design shoe recommendation pipelines using object detection and classification models, and develop responsive web service.|
-| 5     | National research project.          | Generative Adversarial Network-based cerebrovascular stroke image data augmentation and segmentation.|
-| 6     | Industry-Academic cooperation task. | Development of pedestrian detection and tracking Deep Learning model from drone images.|
+| 4     | BSE Graduation Project             | Design shoe recommendation pipelines using object detection and classification models, and develop responsive web service.|
+| 5     | National research project          | Generative Adversarial Network-based cerebrovascular stroke image data augmentation and segmentation.|
+| 6     | Industry-Academic cooperation task | Development of pedestrian detection and tracking Deep Learning model from drone images.|
 | 7     | Industry-Academic cooperation task    | Develop of CPR training application design and sensor data analysis pipeline using QR code-based Virtual Reality and BLE. |
 
 ### :mega: Contact
