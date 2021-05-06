@@ -41,8 +41,7 @@
 | 7     | Industry-Academic cooperation task    | Develop of CPR training application design and sensor data analysis pipeline using QR code-based Virtual Reality and BLE. |
 
 ### :mega: Contact
-<p align='center'> 
-    <a href="mailto:hjkim@vim.cau.ac.kr"><img src="https://img.shields.io/badge/Mail-FF5050?style=flat&logo=Gmail&logoColor=white&link=""/></a>&nbsp
-    <a href="https://maihon.oopy.io/"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white"/></a>&nbsp
-</p>
+
+<a href="mailto:hjkim@vim.cau.ac.kr"><img src="https://img.shields.io/badge/Mail-FF5050?style=flat&logo=Gmail&logoColor=white&link=""/></a>&nbsp
+<a href="https://maihon.oopy.io/"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white"/></a>&nbsp
 <br></br>
