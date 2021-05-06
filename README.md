@@ -15,7 +15,7 @@
 </p>
 <br></br>
 
-:wave: Hello My I'm HyoJin Kim
+:wave: Hello I'm HyoJin Kim.
 
  My major is **computer engineering :computer:**. I have project experience using **Python(My most confident language)**, C++, and Java & Android languages. I am very interested in Deep Learning. I am especially interested in **Computer Vision and Image Processing**.
 
