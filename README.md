@@ -43,6 +43,6 @@
 ### :mega: Contact
 <p> 
     <a href="mailto:hjkim@vim.cau.ac.kr"><img src="https://img.shields.io/badge/Mail-FF5050?style=flat&logo=Gmail&logoColor=white&link=""/></a>&nbsp
-    <a href="https://vimhjk.oopy.io/"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Notion&logoColor=white"/></a>&nbsp
+    <a href="https://vimhjk.oopy.io/"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>&nbsp
 </p>
 <br></br>
